@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="push_black">#FF000000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="bottom_nav_background_alarm">#FFA048</color>
+    <color name="bottom_nav_background_guide">#80CEE1</color>
+    <color name="bottom_nav_background_guide2">#D1AFD3</color>
+    <color name="bottom_nav_background_manage">#E3ECA6</color>
+    <color name="bottom_nav_background_info">#FFE263</color>
+
+    <color name="main_activity_backcolor">#E1DDDB</color>
+    <color name="main_activity_textview">#6FA8BA</color>
+
+    <color name="guide_activity_background">#D1AFD3</color>
+    <color name="guide_activity_background2">#0087BF</color>
+
+    <color name="guide_activity_textview">#E0E7E9</color>
+</resources>

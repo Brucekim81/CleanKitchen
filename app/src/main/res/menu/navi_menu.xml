@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_alarm"
+        android:title="알람"
+        android:icon="@drawable/ic_alarm" />
+
+    <item
+        android:id="@+id/nav_guide"
+        android:title="가이드"
+
+        android:icon="@drawable/ic_cleaning" />
+
+    <item
+        android:id="@+id/nav_manage"
+        android:title="관리"
+        android:icon="@drawable/ic_itemsrst" />
+
+    <item
+        android:id="@+id/nav_info"
+        android:title="정보"
+        android:icon="@drawable/ic_healthsafe" />
+
+</menu>
